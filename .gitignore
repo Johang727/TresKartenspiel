@@ -1,0 +1,5 @@
+# Ignore packaged file, as it can nyow be packed and unpacked easily
+*.sb3
+
+# Ignore the backups
+/Backups/
