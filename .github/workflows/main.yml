@@ -27,6 +27,6 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                 name: sb3-output
-                path: ./CarDrivingSimulator2.sb3
+                path: ./TresKartenspiel.sb3
                 
 
